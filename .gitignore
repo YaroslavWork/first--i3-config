@@ -1,0 +1,11 @@
+# Ignore all
+*
+
+# except ...
+!.gitignore
+!i3/
+!picom/
+!polybar/
+!rofi/
+!Scripts/
+!Wallpaper/
