@@ -1,0 +1,10 @@
+configuration {
+  font: "FiraCode Nerd Font 12";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+
+//@theme "catppuccin-mocha.rasi"
+//@theme "~/.config/rofi/catppuccin-mocha.rasi"
+
+//@theme "/usr/share/rofi/themes/catppuccin-mocha.rasi"
