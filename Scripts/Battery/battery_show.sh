@@ -24,4 +24,8 @@ else
     print=" $charging_icon  $BAT_LEVEL%"
 fi
 
-echo "$print  |  "
+if [ -z $print ]; then
+    echo ""
+else
+    echo "$print  |  "
+fi
